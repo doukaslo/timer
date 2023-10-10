@@ -1,12 +1,13 @@
-# Timer
-### a MGTC28 Python example
-This is a timer program written in Python  
+# Nerve of Steel Timer
 
-![times-up!](https://media.makeameme.org/created/times-up-5923e0.jpg)\
-timer.py is a simple Python script allowing users to set timer duration.
-Upon timer expiry, the user will see the time-up meme.
-timer.py uses the **time library** to help keep track of time and the **pillow library** to facilitate the meme display.
+### MGTC28 In-class Assignmetn 4 by Louis Doukas
+
+timer.py is a simple Python script setting a timer between 5-25 seconds starting from the beginning of the game when the program informs players to stand.  
+Upon timer expiry, the program will display text indicating to players that the game is over. 
+timer.py uses the **time library** to help keep track of time and the **random library** to set a random time duration.
+
 
 Please see the documentation for the library used:
 - [time](https://docs.python.org/3/library/time.html)
-- [pillow](https://pypi.org/project/Pillow/)
+- [random](https://docs.python.org/3/library/random.html)
+  
